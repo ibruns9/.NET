@@ -1,0 +1,15 @@
+/Users/ianbruns/MyApp/bin/Debug/net7.0/MyApp
+/Users/ianbruns/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/Users/ianbruns/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/Users/ianbruns/MyApp/bin/Debug/net7.0/MyApp.dll
+/Users/ianbruns/MyApp/bin/Debug/net7.0/MyApp.pdb
+/Users/ianbruns/MyApp/obj/Debug/net7.0/MyApp.csproj.AssemblyReference.cache
+/Users/ianbruns/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ianbruns/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/Users/ianbruns/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/Users/ianbruns/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/ianbruns/MyApp/obj/Debug/net7.0/MyApp.dll
+/Users/ianbruns/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/Users/ianbruns/MyApp/obj/Debug/net7.0/MyApp.pdb
+/Users/ianbruns/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/Users/ianbruns/MyApp/obj/Debug/net7.0/ref/MyApp.dll
